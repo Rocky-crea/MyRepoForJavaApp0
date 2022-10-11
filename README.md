@@ -1,0 +1,1 @@
+# MyRepoForJavaApp0
